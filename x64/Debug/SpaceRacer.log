@@ -1,0 +1,12 @@
+﻿  GameEngine.cpp
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(24): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(24): warning C4302: 'type cast': truncation from 'void *' to 'long'
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(180): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(312): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(514): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(529): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(548): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zvezd\desktop\cw217zdalev\spaceracer\gameengine.cpp(568): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  SpaceRacer.vcxproj -> C:\Users\zvezd\Desktop\CW217ZDalev\SpaceRacer\x64\Debug\SpaceRacer.exe
